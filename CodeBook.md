@@ -1,7 +1,7 @@
 # Data Dictionary for Course Project (Getting data and cleaning)
 
 
-activity_desc            
+"activity_desc"            
 "subject"                 
 "tBodyAccMeanX"            
 "tBodyAccMeanY"           
