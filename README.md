@@ -12,7 +12,7 @@
 * Generate and write the tidy_data.txt file in the "mergeddata" folder
 
 
-## Last part: 
+## Last part: Second independent tidy data set with average of each variable
 
 * Melt and dcast the merged dataset based on activity and subject. Summarise by Mean of the columns.
 * Write the second tidy file which has summary of means as "mergeddata.txt" in the mergeddata folder.
