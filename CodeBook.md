@@ -1,8 +1,21 @@
-# Data Dictionary for Course Project (Getting data and cleaning)
-
+# Data Dictionary for Course Project (Getting and cleaning data)
+## Dataset represents data collected from accelerometers from Samsung S galaxy smartphone from 30 users.
 
 ####activity_desc
-* 1		         
+* 1	Activity descrption
+	Describes the activity type of the row in the data set. Values vary from 1 to 6 where:
+	1=WALKING
+	
+2=WALKING_UPSTAIRS
+	
+3=WALKING_DOWNSTAIRS
+	
+4=SITTING
+	
+5=STANDING
+
+	6=LAYING
+	         
 
 ####subject                 
 
