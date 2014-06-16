@@ -85,7 +85,9 @@
 * Mean of Body acceleration jerk std dev in Z direction
 
 ####tBodyGyroMeanX           
-v
+* NUMERIC
+* Mean of Body gyro mean in X direction
+
 ####tBodyGyroMeanY          
 * NUMERIC
 * Mean of Body gyro mean in Y direction
