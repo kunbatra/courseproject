@@ -1,139 +1,139 @@
 # Data Dictionary for Course Project (Getting data and cleaning)
 
 
-###activity_desc
-   * 1		         
+####activity_desc
+* 1		         
 
-###subject                 
+####subject                 
 
-###tBodyAccMeanX            
+####tBodyAccMeanX            
 
-###tBodyAccMeanY           
+####tBodyAccMeanY           
 
-###tBodyAccMeanZ            
+####tBodyAccMeanZ            
 
-###tBodyAccstdX            
+####tBodyAccstdX            
 
-###tBodyAccstdY             
+####tBodyAccstdY             
 
-###tBodyAccstdZ            
+####tBodyAccstdZ            
 
-###tGravityAccMeanX         
+####tGravityAccMeanX         
 
-###tGravityAccMeanY        
+####tGravityAccMeanY        
 
-###tGravityAccMeanZ         
+####tGravityAccMeanZ         
 
-###tGravityAccstdX         
+####tGravityAccstdX         
 
-###tGravityAccstdY          
+####tGravityAccstdY          
 
-###tGravityAccstdZ         
+####tGravityAccstdZ         
 
-###tBodyAccJerkMeanX        
+####tBodyAccJerkMeanX        
 
-###tBodyAccJerkMeanY       
+####tBodyAccJerkMeanY       
 
-###tBodyAccJerkMeanZ        
+####tBodyAccJerkMeanZ        
 
-###tBodyAccJerkstdX        
+####tBodyAccJerkstdX        
 
-###tBodyAccJerkstdY         
+####tBodyAccJerkstdY         
 
-###tBodyAccJerkstdZ        
+####tBodyAccJerkstdZ        
 
-###tBodyGyroMeanX           
+####tBodyGyroMeanX           
 
-###tBodyGyroMeanY          
+####tBodyGyroMeanY          
 
-###tBodyGyroMeanZ           
+####tBodyGyroMeanZ           
 
-###tBodyGyrostdX           
+####tBodyGyrostdX           
 
-###tBodyGyrostdY            
+####tBodyGyrostdY            
 
-###tBodyGyrostdZ           
+####tBodyGyrostdZ           
 
-###tBodyGyroJerkMeanX       
+####tBodyGyroJerkMeanX       
 
-###tBodyGyroJerkMeanY      
+####tBodyGyroJerkMeanY      
 
-###tBodyGyroJerkMeanZ       
+####tBodyGyroJerkMeanZ       
 
-###tBodyGyroJerkstdX       
+####tBodyGyroJerkstdX       
 
-###tBodyGyroJerkstdY        
+####tBodyGyroJerkstdY        
 
-###tBodyGyroJerkstdZ       
+####tBodyGyroJerkstdZ       
 
-###tBodyAccMagMean          
+####tBodyAccMagMean          
 
-###tBodyAccMagstd          
+####tBodyAccMagstd          
 
-###tGravityAccMagMean       
+####tGravityAccMagMean       
 
-###tGravityAccMagstd       
+####tGravityAccMagstd       
 
-###tBodyAccJerkMagMean      
+####tBodyAccJerkMagMean      
 
-###tBodyAccJerkMagstd      
+####tBodyAccJerkMagstd      
 
-###tBodyGyroMagMean         
+####tBodyGyroMagMean         
 
-###tBodyGyroMagstd         
+####tBodyGyroMagstd         
 
-###tBodyGyroJerkMagMean     
+####tBodyGyroJerkMagMean     
 
-###tBodyGyroJerkMagstd     
+####tBodyGyroJerkMagstd     
 
-###fBodyAccMeanX            
+####fBodyAccMeanX            
 
-###fBodyAccMeanY           
+####fBodyAccMeanY           
 
-###fBodyAccMeanZ            
+####fBodyAccMeanZ            
 
-###fBodyAccstdX            
+####fBodyAccstdX            
 
-###fBodyAccstdY             
+####fBodyAccstdY             
 
-###fBodyAccstdZ            
+####fBodyAccstdZ            
 
-###fBodyAccJerkMeanX        
+####fBodyAccJerkMeanX        
 
-###fBodyAccJerkMeanY       
+####fBodyAccJerkMeanY       
 
-###fBodyAccJerkMeanZ        
+####fBodyAccJerkMeanZ        
 
-###fBodyAccJerkstdX        
+####fBodyAccJerkstdX        
 
-###fBodyAccJerkstdY         
+####fBodyAccJerkstdY         
 
-###fBodyAccJerkstdZ        
+####fBodyAccJerkstdZ        
 
-###fBodyGyroMeanX           
+####fBodyGyroMeanX           
 
-###fBodyGyroMeanY          
+####fBodyGyroMeanY          
 
-###fBodyGyroMeanZ           
+####fBodyGyroMeanZ           
 
-###fBodyGyrostdX           
+####fBodyGyrostdX           
 
-###fBodyGyrostdY            
+####fBodyGyrostdY            
 
-###fBodyGyrostdZ           
+####fBodyGyrostdZ           
 
-###fBodyAccMagMean          
+####fBodyAccMagMean          
 
-###fBodyAccMagstd          
+####fBodyAccMagstd          
 
-###fBodyBodyAccJerkMagMean  
+####fBodyBodyAccJerkMagMean  
 
-###fBodyBodyAccJerkMagstd  
+####fBodyBodyAccJerkMagstd  
 
-###fBodyBodyGyroMagMean     
+####fBodyBodyGyroMagMean     
 
-###fBodyBodyGyroMagstd     
+####fBodyBodyGyroMagstd     
 
-###fBodyBodyGyroJerkMagMean 
+####fBodyBodyGyroJerkMagMean 
 
-###fBodyBodyGyroJerkMagstd
+####fBodyBodyGyroJerkMagstd
