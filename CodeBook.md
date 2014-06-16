@@ -1,33 +1,31 @@
 # Data Dictionary for Course Project (Getting and cleaning data)
-## Dataset represents data collected from accelerometers from Samsung S galaxy smartphone from 30 users.
+## This tidy dataset represents summary (mean) of data collected from accelerometers from Samsung S galaxy smartphone from 30 users.
 
 ####activity_desc
 * FACTOR
-	Activity descrption
-	Describes the activity type of the row in the data set. Values vary from 1 to 6 where: 1=WALKING,
+*Activity descrption. Describes the activity type of the row in the data set. Values vary from 1 to 6 where: 1=WALKING,
 2=WALKING_UPSTAIRS, 3=WALKING_DOWNSTAIRS,4=SITTING,5=STANDING,6=LAYING
 	         
 
 ####subject  
 * INTEGER   
-	Subject identifier
-	Indicates the numeric identifier of the subject for which the row is observed. Range: 1 to 30              
+*Subject identifier.Indicates the numeric identifier of the subject for which the row is observed. Range: 1 to 30              
 
 ####tBodyAccMeanX
 * NUMERIC
-	Mean of Body acceleration mean in X direction             
+* Mean of Body acceleration mean in X direction             
 
 ####tBodyAccMeanY           
 * NUMERIC
-	Mean of Body acceleration mean in Y direction     
+* Mean of Body acceleration mean in Y direction     
 
 ####tBodyAccMeanZ            
 * NUMERIC
-	Mean of Body acceleration mean in Z direction     
+* Mean of Body acceleration mean in Z direction     
 
 ####tBodyAccstdX
 * NUMERIC
-	Mean of Body acceleration std dev in X direction                 
+* Mean of Body acceleration std dev in X direction                 
 
 ####tBodyAccstdY             
 * NUMERIC
